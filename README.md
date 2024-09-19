@@ -8,7 +8,7 @@ Key Features
 - Real-time Updates: The interface updates immediately when notes are added or deleted.
 
 Installation
-Clone the repository: `git clone https://github.com/yourusername/keeper-app.git`
+Clone the repository: `git clone https://github.com/sheethu-raj/Bootcamp-Projects-The-Keeper-App.git`
 
 Install dependencies: `npm install`
 
