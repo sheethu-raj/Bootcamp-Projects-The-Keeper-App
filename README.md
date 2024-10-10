@@ -21,3 +21,7 @@ Technologies Used
 - React: UI building.
 - JavaScript: Logic implementation.
 - CSS: Simple styling.
+
+Screenshot:
+
+![Screenshot 2024-10-11 010534](https://github.com/user-attachments/assets/3de87924-cd26-443a-af21-121ba738dbf5)
